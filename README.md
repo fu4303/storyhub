@@ -2,7 +2,7 @@
 
 StoryHub is a web application which allows user to create and share stories.
 
-<!-- **Link to project:** http://recruiters-love-seeing-live-demos.com/ -->
+**Link to project:** https://story-hub-app.herokuapp.com/
 
 <!-- ![alt tag](http://placecorgi.com/1200/650) -->
 
