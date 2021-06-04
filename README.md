@@ -1,4 +1,4 @@
-# Stories-Hub
+# StoryHub
 
 StoryHub is a web application which allows user to create and share stories.
 
@@ -13,7 +13,7 @@ I decided to use this tech stack as it enabled me to improve my understanding of
 ## Possible Additions in the Future
 
 - Enabling users to like stories that they find intriguing
-- Expand local authentication via passportjs to users of the application, not just demo users.
+- Expand local authentication via passportjs to true-users of the application, not just demo users.
 - Add more rich features to text editor such as images, and other forms of text formatting.
 
 ## Lessons Learned:
