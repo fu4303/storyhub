@@ -1,0 +1,64 @@
+p {
+  margin: 10px 0 !important;
+}
+
+.login-container {
+  max-width: 400px;
+  margin-top: 250px;
+  text-align: center;
+}
+
+.m-2 {
+  margin-top: 20px;
+}
+
+.fa-small {
+  font-size: 16px !important;
+}
+
+.btn-float-left {
+  float: left;
+  margin-right: 10px;
+}
+
+.story.card {
+  position: relative;
+  height: 400px;
+}
+
+.img-small {
+  width: 180px;
+}
+
+.bg {
+  background-image: url("../images/login.jpg");
+  background-size: cover;
+  background-position: center;
+  background-color: #ccc;
+}
+
+@media screen and (max-width: 750px) {
+  .bg {
+    background-position: left center;
+  }
+
+  th,
+  td {
+    font-size: 14px;
+  }
+
+  .story.card {
+    height: 360px;
+  }
+
+  .date-heading,
+  .date-content {
+    display: none;
+  }
+}
+
+/* @media (max-width: 700px) {
+  .story.card {
+    height: 380px;
+  }
+} */

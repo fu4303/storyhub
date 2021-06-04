@@ -1,0 +1,29 @@
+<h1>Stories</h1>
+<div class="row">
+  {{! This is referring to the logged in user because this is outside the loop}}
+  {{#each stories}}
+    <div class="col m6 s12 xl4 m-2 center-align">
+      <div class="story card">
+        <div class="card-image">
+          {{{editIcon user ../user _id }}}
+        </div>
+        <div class="card-content center-align">
+          <h5>{{title}}</h5>
+          <p class="story-body">{{truncate (stripTags body) 200}}</p>
+          <br>
+          <div class="chip">
+             {{#if user.image}}
+            <img src="{{user.image}}" alt="" />
+            {{/if}}
+            <a href="/stories/user/{{user._id}}">{{user.firstName}}</a>
+          </div>
+        </div>
+        <div class="card-action readmore center-align">
+          <a href="/stories/{{_id}}" class="btn grey">Read More</a>
+        </div>
+      </div>
+    </div>
+  {{else}}
+    <p>No stories to display</p>
+  {{/each}}
+</div>
