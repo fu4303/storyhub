@@ -16,6 +16,6 @@ I decided to use this tech stack as it enabled me to improve my understanding of
 - Expand local authentication via passportjs to potential users of the application, not just demo users.
 - Add more rich features to text editor such as image uploading, and other forms of text formatting.
 
-## Lessons Learned:
+## Lessons Learned
 
 In Hindsight, before jumping straight into the coding aspect, taking the time to properly plan and design models and research on possible use cases would have saved me a good chunk of time during development.
