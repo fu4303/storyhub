@@ -8,7 +8,7 @@ StoryHub is a web application which allows user to create and share stories.
 
 **Tech used:** Nodejs, MongoDB, Expressjs, Passportjs,HTML, CSS, CKEditor
 
-I decided to use this tech stack as it enabled me to improve my understanding of basic CRUD Operations and the implementation of RESTFUL APIs. It also gave me the chance to understand the importance of organizing code using MVC architecture
+I decided to use this tech stack as it enabled me to improve my understanding of basic CRUD Operations and the implementation of RESTful APIs. It also gave me the chance to understand the importance of organizing code using MVC architecture
 
 ## Possible Additions in the Future
 
