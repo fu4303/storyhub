@@ -13,9 +13,9 @@ I decided to use this tech stack as it enabled me to improve my understanding of
 ## Possible Additions in the Future
 
 - Enabling users to like stories that they find intriguing
-- Expand local authentication via passportjs to true-users of the application, not just demo users.
-- Add more rich features to text editor such as images, and other forms of text formatting.
+- Expand local authentication via passportjs to potential users of the application, not just demo users.
+- Add more rich features to text editor such as image uploading, and other forms of text formatting.
 
 ## Lessons Learned:
 
-Before jumping straight to coding, taking the time to properly design models and research on possible use cases would have saved me a good chunk of time, in terms of figuring out how to render certain user/application data to the view.
+In Hindsight, before jumping straight into the coding aspect, taking the time to properly plan and design models and research on possible use cases would have saved me a good chunk of time during development.
