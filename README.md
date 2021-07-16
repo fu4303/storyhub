@@ -7,9 +7,6 @@ StoryHub is a web application which allows user to create and share stories.
 
 **Link to project:** https://story-hub-app.herokuapp.com/
 
-<!-- ![alt tag](http://placecorgi.com/1200/650) -->
->>>>>>> refs/remotes/origin/main
-
 **Tech used:** Nodejs, MongoDB, Expressjs, Passportjs,HTML, CSS, CKEditor
 
 I decided to use this tech stack as it enabled me to improve my understanding of basic CRUD Operations and the implementation of RESTful APIs. It also gave me the chance to understand the importance of organizing code using MVC architecture
@@ -73,6 +70,3 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 ## Simple build for production
 
     $ npm start
-=======
-In Hindsight, before jumping straight into the coding aspect, taking the time to properly plan and design models and research on possible use cases would have saved me a good chunk of time during development.
->>>>>>> refs/remotes/origin/main
