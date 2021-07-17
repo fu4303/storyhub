@@ -3,8 +3,6 @@
 Lennox Gilbert
 
 StoryHub is a web application which enables users to write and share stories with a community of readers.
-=======
-StoryHub is a web application which allows user to create and share stories.
 
 **Link to project:** https://story-hub-app.herokuapp.com/
 
@@ -19,8 +17,6 @@ I decided to use this tech stack as it enabled me to improve my understanding of
 - Add more rich features to text editor such as image uploading, and other forms of text formatting.
 
 ## Lessons Learned
-
-<<<<<<< HEAD
 Before jumping straight to coding, taking the time to properly design models and research on possible use cases would have saved me a good chunk of time, in terms of figuring out how to render certain user/application data to the view.
 
 ## Requirements
