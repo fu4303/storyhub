@@ -2,7 +2,6 @@
 
 Lennox Gilbert
 
-<<<<<<< HEAD
 StoryHub is a web application which enables users to write and share stories with a community of readers.
 =======
 StoryHub is a web application which allows user to create and share stories.
